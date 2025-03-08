@@ -45,7 +45,7 @@ Pastikan Anda berada di direktori yang berisi file `dashboard.py` sebelum menjal
 
 ## Struktur Direktori
 ```
-📂 bike-rental-dashboard
+📂 bike-sharing
 ├── 📄 dashboard.py  # Skrip utama yang digunakan untuk membuat dashboard hasil analisis data di Streamlit
 ├── 📂 data    # Folder untuk menyimpan dataset dalam format .csv
 └──📄 notebook.ipnyb  # File yang digunakan untuk melakukan analisis data
