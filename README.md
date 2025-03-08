@@ -1,6 +1,6 @@
 # Bike Sharing Dashboard
 
-Dashboard ini dibuat menggunakan Streamlit untuk mengeksplorasi dan memvisualisasikan data peminjaman sepeda pada rentang tahun 2011-2012 yang dianalisis berdasarkan best and worst performing time periods, weather impact, dan customer demographic.
+Dashboard ini dibuat menggunakan Streamlit untuk mengeksplorasi dan memvisualisasikan data peminjaman sepeda pada rentang tahun 2011-2012 yang dianalisis berdasarkan best and worst performing time periods dan weather impact terhadap peminjaman sepeda.
 
 ## Persyaratan
 Sebelum menjalankan dashboard, pastikan Anda telah menginstal Python dan memiliki package yang diperlukan. Berikut adalah daftar package yang digunakan:
